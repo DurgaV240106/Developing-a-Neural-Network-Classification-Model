@@ -91,8 +91,11 @@ optimizer =optim.Adam(model.parameters(),lr=0.001)
 ```
 
 ## Dataset Information:
+
 <img width="1338" height="261" alt="image" src="https://github.com/user-attachments/assets/ad4f7d41-eb2d-4a31-9bf4-af621c55c77b" />
+
 ## OUTPUT
+
 ## Confusion Matrix
 
 <img width="338" height="101" alt="image" src="https://github.com/user-attachments/assets/e390ad2c-bc7e-4b3b-9307-74efa62a7d47" />
@@ -100,6 +103,7 @@ optimizer =optim.Adam(model.parameters(),lr=0.001)
 <img width="406" height="316" alt="image" src="https://github.com/user-attachments/assets/1d876ca2-2922-46a1-9db0-8d04994f5813" />
 
 ## Classification Report
+
 <img width="339" height="149" alt="image" src="https://github.com/user-attachments/assets/50989894-118f-4baf-9d0e-ed59f2febd9e" />
 
 <img width="353" height="69" alt="image" src="https://github.com/user-attachments/assets/15423f32-5bbb-4acd-a682-56565589421b" />
