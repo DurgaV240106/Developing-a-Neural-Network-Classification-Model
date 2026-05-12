@@ -98,10 +98,7 @@ optimizer =optim.Adam(model.parameters(),lr=0.001)
 
 ## Confusion Matrix
 
-<img width="338" height="101" alt="image" src="https://github.com/user-attachments/assets/e390ad2c-bc7e-4b3b-9307-74efa62a7d47" />
 
-
-<img width="406" height="316" alt="image" src="https://github.com/user-attachments/assets/1d876ca2-2922-46a1-9db0-8d04994f5813" />
 
 ## Classification Report
 
