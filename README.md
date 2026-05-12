@@ -101,12 +101,17 @@ optimizer =optim.Adam(model.parameters(),lr=0.001)
 <img width="338" height="101" alt="Screenshot 2026-05-12 235545" src="https://github.com/user-attachments/assets/4b5a44ad-5371-4c35-9ffd-e2523ca18f4a" />
 
 
+
+
 <img width="406" height="316" alt="Screenshot 2026-05-12 235650" src="https://github.com/user-attachments/assets/7bda052b-344e-43e9-9cc5-10ce2ee14f40" />
 
 
 ## Classification Report
 
 <img width="339" height="149" alt="Screenshot 2026-05-12 235757" src="https://github.com/user-attachments/assets/2fdd67b4-95d0-4ad7-afc7-fa631e033fea" />
+
+
+
 
 <img width="353" height="69" alt="Screenshot 2026-05-12 235816" src="https://github.com/user-attachments/assets/7259df71-cf16-4536-919f-7555bd4c904b" />
 
